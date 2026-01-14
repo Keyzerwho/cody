@@ -24,7 +24,7 @@
     "crypto-js": "^4.2.0",
     "date-fns": "^2.30.0",
     "dedent": "^0.7.0",
-    "diff": "^5.2.0",
+    "diff": "^8.0.3",
     "env-paths": "^2.2.1",
     "immer": "^10.1.1",
     "isomorphic-fetch": "^3.0.0",
